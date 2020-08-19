@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "bash deploy.sh",
-    "build": "NODE_ENV=production vuepress build ."
+    "build": "NODE_ENV=production vuepress build docs"
   },
   "author": "",
   "license": "ISC",
